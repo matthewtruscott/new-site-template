@@ -14,7 +14,7 @@
     "@babel/preset-env": "^7.0.0",
     "autoprefixer": "^8.6.5",
     "babel-loader": "^8.0.0-beta",
-    "browser-sync": "^2.24.7",
+    "browser-sync": "^2.26.5",
     "gulp": "^3.9.1",
     "gulp-postcss": "^7.0.1",
     "postcss-color-function": "^4.0.1",
@@ -26,7 +26,8 @@
     "webpack": "^4.19.0"
   },
   "dependencies": {
-    "normalize.css": "^8.0.0"
+    "normalize.css": "^8.0.0",
+    "natives": "^1.1.6"
   },
   "description": ""
 }
